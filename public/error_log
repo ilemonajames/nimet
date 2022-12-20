@@ -1,0 +1,41 @@
+[21-Nov-2022 23:07:39 UTC] PHP Warning:  The use statement with non-compound name 'NumberFormatter' has no effect in /home/comelyna/test.comelynation.com/app/Lib/functions.php on line 2
+[21-Nov-2022 23:10:36 UTC] PHP Deprecated:  Required parameter $value follows optional parameter $params in /home/comelyna/test.comelynation.com/vendor/wixel/gump/gump.class.php on line 1161
+[21-Nov-2022 23:10:36 UTC] PHP Deprecated:  Required parameter $value follows optional parameter $params in /home/comelyna/test.comelynation.com/vendor/wixel/gump/gump.class.php on line 1234
+[21-Nov-2022 23:10:36 UTC] PHP Deprecated:  Required parameter $value follows optional parameter $params in /home/comelyna/test.comelynation.com/vendor/wixel/gump/gump.class.php on line 1261
+[21-Nov-2022 23:10:36 UTC] PHP Deprecated:  Required parameter $value follows optional parameter $params in /home/comelyna/test.comelynation.com/vendor/wixel/gump/gump.class.php on line 1278
+[21-Nov-2022 23:10:36 UTC] PHP Deprecated:  Required parameter $value follows optional parameter $params in /home/comelyna/test.comelynation.com/vendor/wixel/gump/gump.class.php on line 1295
+[21-Nov-2022 23:10:36 UTC] PHP Deprecated:  Required parameter $value follows optional parameter $params in /home/comelyna/test.comelynation.com/vendor/wixel/gump/gump.class.php on line 1311
+[21-Nov-2022 23:10:36 UTC] PHP Deprecated:  Required parameter $value follows optional parameter $params in /home/comelyna/test.comelynation.com/vendor/wixel/gump/gump.class.php on line 1356
+[21-Nov-2022 23:10:36 UTC] PHP Deprecated:  Required parameter $value follows optional parameter $params in /home/comelyna/test.comelynation.com/vendor/wixel/gump/gump.class.php on line 1370
+[21-Nov-2022 23:10:36 UTC] PHP Deprecated:  Required parameter $value follows optional parameter $params in /home/comelyna/test.comelynation.com/vendor/wixel/gump/gump.class.php on line 1384
+[21-Nov-2022 23:10:36 UTC] PHP Deprecated:  Required parameter $value follows optional parameter $params in /home/comelyna/test.comelynation.com/vendor/wixel/gump/gump.class.php on line 1398
+[21-Nov-2022 23:10:36 UTC] PHP Deprecated:  Required parameter $value follows optional parameter $params in /home/comelyna/test.comelynation.com/vendor/wixel/gump/gump.class.php on line 1412
+[21-Nov-2022 23:10:36 UTC] PHP Deprecated:  Required parameter $value follows optional parameter $params in /home/comelyna/test.comelynation.com/vendor/wixel/gump/gump.class.php on line 1426
+[21-Nov-2022 23:10:36 UTC] PHP Deprecated:  Required parameter $value follows optional parameter $params in /home/comelyna/test.comelynation.com/vendor/wixel/gump/gump.class.php on line 1440
+[21-Nov-2022 23:10:36 UTC] PHP Deprecated:  Required parameter $value follows optional parameter $params in /home/comelyna/test.comelynation.com/vendor/wixel/gump/gump.class.php on line 1454
+[21-Nov-2022 23:10:36 UTC] PHP Deprecated:  Required parameter $value follows optional parameter $params in /home/comelyna/test.comelynation.com/vendor/wixel/gump/gump.class.php on line 1468
+[21-Nov-2022 23:10:36 UTC] PHP Deprecated:  Required parameter $value follows optional parameter $params in /home/comelyna/test.comelynation.com/vendor/wixel/gump/gump.class.php on line 1482
+[21-Nov-2022 23:10:36 UTC] PHP Deprecated:  Required parameter $value follows optional parameter $params in /home/comelyna/test.comelynation.com/vendor/wixel/gump/gump.class.php on line 1503
+[21-Nov-2022 23:10:36 UTC] PHP Deprecated:  Required parameter $value follows optional parameter $params in /home/comelyna/test.comelynation.com/vendor/wixel/gump/gump.class.php on line 1520
+[21-Nov-2022 23:10:36 UTC] PHP Deprecated:  Required parameter $value follows optional parameter $params in /home/comelyna/test.comelynation.com/vendor/wixel/gump/gump.class.php on line 1535
+[21-Nov-2022 23:10:36 UTC] PHP Deprecated:  Required parameter $value follows optional parameter $params in /home/comelyna/test.comelynation.com/vendor/wixel/gump/gump.class.php on line 1552
+[21-Nov-2022 23:10:36 UTC] PHP Deprecated:  Required parameter $value follows optional parameter $params in /home/comelyna/test.comelynation.com/vendor/wixel/gump/gump.class.php on line 1601
+[21-Nov-2022 23:10:36 UTC] PHP Deprecated:  Required parameter $value follows optional parameter $params in /home/comelyna/test.comelynation.com/vendor/wixel/gump/gump.class.php on line 1616
+[21-Nov-2022 23:10:36 UTC] PHP Deprecated:  Required parameter $value follows optional parameter $params in /home/comelyna/test.comelynation.com/vendor/wixel/gump/gump.class.php on line 1636
+[21-Nov-2022 23:10:36 UTC] PHP Deprecated:  Required parameter $value follows optional parameter $params in /home/comelyna/test.comelynation.com/vendor/wixel/gump/gump.class.php on line 1669
+[21-Nov-2022 23:10:36 UTC] PHP Deprecated:  Required parameter $value follows optional parameter $params in /home/comelyna/test.comelynation.com/vendor/wixel/gump/gump.class.php on line 1718
+[21-Nov-2022 23:10:36 UTC] PHP Deprecated:  Required parameter $value follows optional parameter $params in /home/comelyna/test.comelynation.com/vendor/wixel/gump/gump.class.php on line 1733
+[21-Nov-2022 23:10:36 UTC] PHP Deprecated:  Required parameter $value follows optional parameter $params in /home/comelyna/test.comelynation.com/vendor/wixel/gump/gump.class.php on line 1764
+[21-Nov-2022 23:10:36 UTC] PHP Deprecated:  Required parameter $value follows optional parameter $params in /home/comelyna/test.comelynation.com/vendor/wixel/gump/gump.class.php on line 1824
+[21-Nov-2022 23:10:36 UTC] PHP Deprecated:  Required parameter $value follows optional parameter $params in /home/comelyna/test.comelynation.com/vendor/wixel/gump/gump.class.php on line 1845
+[21-Nov-2022 23:10:36 UTC] PHP Deprecated:  Required parameter $value follows optional parameter $params in /home/comelyna/test.comelynation.com/vendor/wixel/gump/gump.class.php on line 1865
+[21-Nov-2022 23:10:36 UTC] PHP Deprecated:  Required parameter $value follows optional parameter $params in /home/comelyna/test.comelynation.com/vendor/wixel/gump/gump.class.php on line 1882
+[21-Nov-2022 23:10:36 UTC] PHP Deprecated:  Required parameter $value follows optional parameter $params in /home/comelyna/test.comelynation.com/vendor/wixel/gump/gump.class.php on line 1924
+[21-Nov-2022 23:10:36 UTC] PHP Deprecated:  Required parameter $value follows optional parameter $params in /home/comelyna/test.comelynation.com/vendor/wixel/gump/gump.class.php on line 1945
+[21-Nov-2022 23:10:36 UTC] PHP Deprecated:  Required parameter $value follows optional parameter $params in /home/comelyna/test.comelynation.com/vendor/wixel/gump/gump.class.php on line 1961
+[21-Nov-2022 23:10:36 UTC] PHP Warning:  The use statement with non-compound name 'NumberFormatter' has no effect in /home/comelyna/test.comelynation.com/app/Lib/functions.php on line 2
+[21-Nov-2022 23:10:36 UTC] PHP Deprecated:  Required parameter $route follows optional parameter $scrollingStyle in /home/comelyna/test.comelynation.com/app/Lib/functions.php on line 1050
+[21-Nov-2022 23:10:36 UTC] PHP Deprecated:  Required parameter $recipients follows optional parameter $gateway in /home/comelyna/test.comelynation.com/app/Lib/functions.php on line 1887
+[21-Nov-2022 23:10:36 UTC] PHP Deprecated:  Required parameter $message follows optional parameter $gateway in /home/comelyna/test.comelynation.com/app/Lib/functions.php on line 1887
+[21-Nov-2022 23:11:21 UTC] PHP Warning:  The use statement with non-compound name 'NumberFormatter' has no effect in /home/comelyna/test.comelynation.com/app/Lib/functions.php on line 2
+[21-Nov-2022 23:11:51 UTC] PHP Warning:  The use statement with non-compound name 'NumberFormatter' has no effect in /home/comelyna/test.comelynation.com/app/Lib/functions.php on line 2
